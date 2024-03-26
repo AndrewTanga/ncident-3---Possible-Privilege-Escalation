@@ -1,4 +1,4 @@
-# ncident-1---Possible-Privilege-Escalation
+# Incident-1---Possible-Privilege-Escalation
 
 ![Possible Privilege Escalation](https://github.com/AndrewTanga/ncident-3---Possible-Privilege-Escalation/assets/93886645/f12252fe-123f-41eb-8137-07a9a83a62a6)
 
